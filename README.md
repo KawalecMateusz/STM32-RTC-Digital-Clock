@@ -100,6 +100,16 @@ The application is organized into several logical sections:
 * 7-segment display control
 * Display multiplexing
 
+## Demonstration
+A short video demonstrating the implemented clock system:
+[Watch the project demonstration on YouTube](https://www.youtube.com/watch?v=HxlgqXiBhhA)
+
+The video shows:
+- normal clock operation,
+- entering configuration mode,
+- selecting editable fields,
+- modifying time and date values.
+
 ## Documentation
 Additional project documentation includes:
 * STM32CubeMX pin configuration,
