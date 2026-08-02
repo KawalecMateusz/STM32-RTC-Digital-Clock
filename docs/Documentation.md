@@ -135,6 +135,8 @@ During normal operation:
 - the LCD displays the current weekday and full date,
 - the RTC peripheral updates the displayed values automatically.
 
+[Normal Mode](images/normal_mode.jpg)
+
 ## 4.2 Field Selection Mode
 
 After pressing the Menu button, the system enters configuration mode.
@@ -146,6 +148,8 @@ In this mode:
 - only the currently selected pair of digits remains active on the 7-segment display,
 - the LCD indicates the currently selected field.
 
+[Field Selection Mode](images/field_selection_mode.jpg)
+
 ## 4.3 Value Editing Mode
 
 Pressing the Select button enters the editing mode.
@@ -156,3 +160,5 @@ During editing:
 - changes are stored in temporary variables,
 - the RTC is not modified until the user confirms the new value,
 - after confirmation, the RTC registers are updated and the weekday is recalculated.
+
+[Value Editing Mode](images/value_editing_mode.jpg)
