@@ -43,7 +43,7 @@ Allows the user to select which parameter should be modified:
 * day
 * month
 * year
-* 
+
 The currently selected value remains active on the 7-segment display while other digit pairs are disabled.
 
 ### Value Editing Mode
