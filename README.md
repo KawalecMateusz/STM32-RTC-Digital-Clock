@@ -38,11 +38,12 @@ The system displays:
 
 ### Field Selection Mode
 Allows the user to select which parameter should be modified:
-* hours,
-* minutes,
-* day,
-* month,
-* year.
+* hours
+* minutes
+* day
+* month
+* year
+* 
 The currently selected value remains active on the 7-segment display while other digit pairs are disabled.
 
 ### Value Editing Mode
